@@ -1,0 +1,6 @@
+{
+  "name": "ProCut Video Enhancer",
+  "description": "A high-performance visual effects editor with a professional timeline, real-time filters, glitch shaders, dynamic transitions, and a multi-track editor inspired by CapCut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
